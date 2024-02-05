@@ -1,3 +1,4 @@
 chainlit==1.0.200
 llama-index==0.9.40
 qdrant-client==1.7.2
+SQLAlchemy==2.0.25
